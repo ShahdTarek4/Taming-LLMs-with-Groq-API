@@ -17,9 +17,9 @@ Comparison of different prompt strategies (Basic, Structured, Few-Shot).
 
 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/ShahdTarek4/Taming LLMs with Groq API.git
+git clone https://github.com/ShahdTarek4/Taming-LLMs-with-Groq-API.git
 
-cd Taming LLMs with Groq API
+cd Taming-LLMs-with-Groq-API
 ```
 
 2️⃣ Create a Virtual Environment 
