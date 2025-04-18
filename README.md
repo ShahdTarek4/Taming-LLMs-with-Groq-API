@@ -1,4 +1,4 @@
-# Taming_LLMs
+# Taming LLMs with Groq API
 📌 **Overview**
 
 This project implements a content classification and analysis tool using the Groq API. It applies structured prompts, analyzes confidence in classifications, and compares different prompt strategies.
